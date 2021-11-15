@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-use-sitemetadata",
+  "appLogic": "Gatsby Use siteMetadata",
+  "version": "0.0.1",
+  "decription": "Gatsby hook/tool",
+  "main": "index.js",
+  "keywords": [
+    "gatsby,gatsby-plugin,gatsby-use-gatsby-tool,gatsby-hook,edu4dev,nuktpls,milton-bolonha,green-day"
+  ],
+  "author": " <miltonbolonha@gmail.com> (Milton Bolonha <miltonbolonha@gmail.com> (edu3.dev)",
+  "license": "MIT"
+}
