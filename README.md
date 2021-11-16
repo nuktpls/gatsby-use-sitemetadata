@@ -14,24 +14,27 @@ Shortcut to request business data written on `gatsby-config.js` siteMetadata.
 
 To get started to log data on your build, you can follow these steps:
 
-1. Install The Business Log - gatsby-plugin with:
+1. Install Gatsby Use siteMetadata gatsby-plugin with the follow command:
 
 ```shell
 npm i gatsby-use-sitemetadata
 ```
 
-If you already have customize your `gatsby-config.js`, you can use it. Otherwise, you can [create a new gatsby-config.js file](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/) to setting your plugin.
-
 ## 🧐 What's inside?
 
 This plugin generates the [files Gatsby looks for inside node_modules](https://www.gatsbyjs.com/docs/files-gatsby-looks-for-in-a-plugin/).
 
-/gatsby-use-sitemetadata
-├── src/tools
-├────── useSitemetaData.js
-├── LICENSE(0BSD)
-├── package.json
-└── README.md
+	/gatsby-use-sitemetadata
+
+	├── src/tools
+
+	├────── useSitemetaData.js
+
+	├── LICENSE(0BSD)
+
+	├── package.json
+
+	└── README.md
 
 
 2. Plug and Play
