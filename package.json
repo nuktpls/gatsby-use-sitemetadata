@@ -1,6 +1,6 @@
 {
   "name": "gatsby-use-sitemetadata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/index.js",
   "description": "Gatsby Use siteMetadata is the hook/tool web creators use to have your business information on the hands when you are developing some custom block.",
   "author": "Milton Bolonha <miltonbolonha@gmail.com>",
